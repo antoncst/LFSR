@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="06LFSR" Database="" Version="10.0.0">
+  <Project Name="LFSR" Path="LFSR.project" Active="Yes"/>
+  <Project Name="LFSR8" Path="LFSR8/LFSR8.project" Active="No"/>
+  <Project Name="LFSR16" Path="LFSR16/LFSR16.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="LFSR" ConfigName="Debug"/>
+      <Project Name="LFSR8" ConfigName="Debug"/>
+      <Project Name="LFSR16" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LFSR" ConfigName="Release"/>
+      <Project Name="LFSR8" ConfigName="Release"/>
+      <Project Name="LFSR16" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
